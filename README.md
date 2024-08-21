@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on iOS Developer at Softtech<br>👯 I’m looking to collaborate to become a better iOS Developer<br>🌱 I’m currently learning UIKit, SwiftUI<br>💬 Ask me about anything you wonder.<br>✋🏼 You can reach me by mail or on LinkedIn<br>
+🔭 I’m currently working on iOS Developer at Yapi Kredi Teklonoji<br>👯 I’m looking to collaborate to become a better iOS Developer<br>🌱 I’m currently learning UIKit, SwiftUI<br>💬 Ask me about anything you wonder.<br>✋🏼 You can reach me by mail or on LinkedIn<br>
 
 
 ## 🌐 Socials:
